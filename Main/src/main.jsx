@@ -6,10 +6,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 
 import App from './App';
-import About from './components/Pages/About';
-import Portfolio from './components/Pages/Profile';
-import Contact from './components/Pages/Contact';
-import Resume from './components/Pages/Resume';
+import About from './Pages/About';
+import Portfolio from './Pages/Profile';
+import Contact from './Pages/Contact';
+import Resume from './Pages/Resume';
 
 const router = createBrowserRouter([
   {
