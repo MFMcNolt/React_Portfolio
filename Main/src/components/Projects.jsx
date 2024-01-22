@@ -2,7 +2,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Project = ({ title, imageUrl, githubUrl, techStack }) => {
+const Project = ({ title, imageUrl, githubUrl }) => {
   return (
     <div className="project-card">
       <img src={imageUrl} className="project-image" alt={`Project ${title}`} />
@@ -20,7 +20,6 @@ Project.propTypes = {
   title: PropTypes.string.isRequired,
   imageUrl: PropTypes.string.isRequired,
   githubUrl: PropTypes.string.isRequired,
-  techStack: PropTypes.string.isRequired,
 };
 
 export default Project;

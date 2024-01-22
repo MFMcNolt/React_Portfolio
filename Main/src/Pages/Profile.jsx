@@ -16,7 +16,6 @@ const Portfolio = () => {
         title: 'Work Day Calendar',
         imageUrl: '/Workday.png',
         githubUrl: 'https://github.com/MFMcNolt/work-day-scheduler',
-        techStack: 'React, Express, Node.js',
     },
   ];
 
