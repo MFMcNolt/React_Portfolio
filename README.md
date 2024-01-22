@@ -15,9 +15,12 @@ The page will reload when you make changes.
 
 How to view the usage of my React Portolio:
 
-- [Screenshot: ](/public/ProfileSS.png)
+- Site Screenshot: ![](/public/ProfileSS.png)
+
 - Netlify Link: [marions-react-portolfio.netlify.app](https://marions-react-portolfio.netlify.app)
 
 ## How to Contribute
 
 Feel free to contact me on: https://github.com/MFMcNolt
+
+
