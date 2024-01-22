@@ -1,4 +1,4 @@
-const About = () => {
+const Resume = () => {
     return (
       <div className="about-container">
         <div className="about-header">
@@ -30,4 +30,4 @@ const About = () => {
     );
   };
   
-  export default About;
+  export default Resume;
