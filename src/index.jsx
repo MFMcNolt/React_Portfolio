@@ -9,13 +9,12 @@ import App from './App';
 import About from './Pages/About';
 import Portfolio from './Pages/Profile';
 import Contact from './Pages/Contact';
-import Resume from './Pages/Resume';
+import Resume from './pages/Resume';
 
 const router = createBrowserRouter([
   {
     path: '/',
     element: <App />,
-    errorElement: <ErrorPage />,
     children: [
       { index: true, element: <About /> },
       { path: 'about', element: <About />},
