@@ -9,7 +9,7 @@ import App from './App';
 import About from './Pages/About';
 import Portfolio from './Pages/Profile';
 import Contact from './Pages/Contact';
-import Resume from './pages/Resume';
+import Resume from './Pages/Resume';
 
 const router = createBrowserRouter([
   {
