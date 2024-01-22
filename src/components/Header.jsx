@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="App-header">
       <Link to="/" className="header-brand">
-        <h1>Marion</h1>
+        <h1>MFM Brand</h1>
       </Link>
       <Navigation />
     </header>

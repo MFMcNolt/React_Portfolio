@@ -5,10 +5,7 @@
 This project allowed me the exposure to creating a project utilizing the skills i have learnt rhough REACT. I was able to build out a professtion portfolio that ecompasses some of the hard work that I have covered in this Bootcamp. Specifically across React and Bootstrap.
 
 ## Install
-
-````` npm start
-`````
-
+    npm start
 Runs the app in the development mode.
 Open http://localhost:3001 to view it in your browser.
 
